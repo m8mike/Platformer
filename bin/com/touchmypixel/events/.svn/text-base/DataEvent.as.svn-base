@@ -1,0 +1,26 @@
+﻿package com.touchmypixel.events 
+{
+	
+	/**
+	* ...
+	* @author DefaultUser (Tools -> Custom Arguments...)
+	*/
+	public class DataEvent extends 
+	{
+		public static var ARRAY:String = 
+		public static var OBJECT:String =
+		public static var DICTIONARY:String =
+		public static var STRING:String = 
+		public static var NUMBER:String = 
+		public static var BOOL:String = 
+		
+		public var value:*
+		
+		public function DataEvent() 
+		{
+			
+		}
+		
+	}
+	
+}
